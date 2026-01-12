@@ -1,6 +1,5 @@
-import '../../utils/index.mjs';
-import Text from './src/text2.mjs';
-export { textProps } from './src/text.mjs';
+import Text from './src/text.mjs';
+export { textProps } from './src/text2.mjs';
 import { withInstall } from '../../utils/vue/install.mjs';
 
 const ElText = withInstall(Text);

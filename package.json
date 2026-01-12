@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "element-plus": "^2.2.29",
+    "element-plus": "2.11.3",
     "otb-module-plus": "^0.8.1",
     "uuid": "^9.0.0",
     "vue": "^3.2.47",
